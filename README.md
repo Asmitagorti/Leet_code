@@ -16,14 +16,20 @@
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0782-jewels-and-stones) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1205-defanging-an-ip-address) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Counting
+|  |
+| ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
