@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Counting
 |  |
 | ------- |
