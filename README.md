@@ -28,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0742-to-lower-case](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1297-maximum-number-of-balloons) |
