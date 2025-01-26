@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [1168-duplicate-zeros](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1168-duplicate-zeros) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
