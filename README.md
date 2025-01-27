@@ -8,6 +8,7 @@
 | [1168-duplicate-zeros](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1168-duplicate-zeros) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1791-richest-customer-wealth) |
