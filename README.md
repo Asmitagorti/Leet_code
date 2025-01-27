@@ -12,6 +12,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Math
 |  |
 | ------- |
