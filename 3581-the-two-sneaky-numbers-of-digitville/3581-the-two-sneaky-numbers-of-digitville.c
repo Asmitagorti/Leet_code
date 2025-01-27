@@ -2,8 +2,8 @@
  * Note: The returned array must be malloced, assume caller calls free().
  */
 int* getSneakyNumbers(int* nums, int numsSize, int* returnSize) {
-    int freq[100000]={0};
-    int pro[100000]={0};
+    int freq[101]={0};
+    int pro[101]={0};
     int *arr=(int*)malloc(numsSize*sizeof(int));
     int index=0;
     for(int i=0;i<numsSize;++i){
