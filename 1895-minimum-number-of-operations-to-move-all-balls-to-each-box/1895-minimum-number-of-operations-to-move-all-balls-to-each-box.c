@@ -8,7 +8,7 @@ int* minOperations(char* boxes, int* returnSize) {
     for (int i = 0; i < n; ++i) {
         arr[i] = 0; // initialise to 0, to avoid over-reading
         for (int j = 0; j < n; ++j) {
-            if (boxes[j] == '1') {
+            if ( i!=j && boxes[j] == '1') {
                 arr[i] += abs(j - i);
             }
         }
