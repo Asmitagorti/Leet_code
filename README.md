@@ -21,6 +21,7 @@
 | [3194-find-words-containing-character](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Math
@@ -33,6 +34,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -63,6 +65,7 @@
 | [2048-build-array-from-permutation](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2298-count-integers-with-even-digit-sum) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -93,4 +96,8 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1791-richest-customer-wealth) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
