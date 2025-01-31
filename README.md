@@ -17,6 +17,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2714-left-and-right-sum-differences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2722-prime-in-diagonal) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3194-find-words-containing-character) |
@@ -82,6 +83,7 @@
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2714-left-and-right-sum-differences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
