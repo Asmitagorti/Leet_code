@@ -25,6 +25,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3194-find-words-containing-character) |
 | [3429-special-array-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3429-special-array-i) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -56,6 +57,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
