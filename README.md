@@ -21,6 +21,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2722-prime-in-diagonal) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3194-find-words-containing-character) |
 | [3429-special-array-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3429-special-array-i) |
@@ -54,6 +55,7 @@
 | [1635-number-of-good-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -98,6 +100,7 @@
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
