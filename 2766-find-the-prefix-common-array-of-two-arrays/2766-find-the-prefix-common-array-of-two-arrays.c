@@ -1,22 +1,25 @@
+#include <stdio.h>
+#include <stdlib.h>
+
 int* findThePrefixCommonArray(int* A, int ASize, int* B, int BSize, int* returnSize) {
     int* C = (int*)malloc(ASize * sizeof(int));
+    int commonCount = 0;
+    *returnSize = ASize;
 
-    int seenA[10001] = {0};  
-    int seenB[10001] = {0};  
-
+    // Iterate through all indices of the arrays
     for (int i = 0; i < ASize; ++i) {
-        seenA[A[i]] = 1;
-        seenB[B[i]] = 1;
-        int c = 0;
+        commonCount = 0; // Reset count for each prefix
         for (int j = 0; j <= i; ++j) {
-            if (seenA[A[j]] && seenB[A[j]]) {
-                c++;
+            // Check if current elements in A and B are equal
+            for (int k = 0; k <= i; ++k) {
+                if (A[j] == B[k]) {
+                    commonCount++;
+                    break;
+                }
             }
         }
-
-        C[i] = c;
+        C[i] = commonCount;
     }
-    *returnSize = ASize;
     return C;
 }
 
