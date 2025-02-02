@@ -8,6 +8,7 @@
 | [1168-duplicate-zeros](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1168-duplicate-zeros) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1580-shuffle-the-array) |
@@ -52,6 +53,7 @@
 | [0782-jewels-and-stones](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1297-maximum-number-of-balloons) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -129,4 +132,5 @@
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
