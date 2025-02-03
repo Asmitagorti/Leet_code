@@ -26,6 +26,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3194-find-words-containing-character) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
