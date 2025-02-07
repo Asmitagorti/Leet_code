@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0066-plus-one) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1168-duplicate-zeros) |
@@ -41,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0066-plus-one) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
