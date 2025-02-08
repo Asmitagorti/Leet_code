@@ -8,6 +8,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1168-duplicate-zeros](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1168-duplicate-zeros) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
