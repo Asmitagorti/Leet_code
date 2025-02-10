@@ -87,6 +87,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3194-find-words-containing-character](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3194-find-words-containing-character) |
+| [3447-clear-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [2058-concatenation-of-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2298-count-integers-with-even-digit-sum) |
+| [3447-clear-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
 |  |
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
