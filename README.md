@@ -27,6 +27,7 @@
 | [2058-concatenation-of-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2058-concatenation-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2714-left-and-right-sum-differences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2722-prime-in-diagonal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -70,6 +71,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
@@ -161,6 +164,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
