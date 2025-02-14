@@ -18,6 +18,7 @@
 | [1580-shuffle-the-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1635-number-of-good-pairs) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -83,6 +84,7 @@
 | [0782-jewels-and-stones](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1297-maximum-number-of-balloons) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
