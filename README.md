@@ -60,6 +60,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2491-smallest-even-multiple](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2556-convert-the-temperature) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2722-prime-in-diagonal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2722-prime-in-diagonal) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
