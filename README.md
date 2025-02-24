@@ -58,6 +58,7 @@
 | [1635-number-of-good-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1635-number-of-good-pairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2491-smallest-even-multiple](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2722-prime-in-diagonal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2722-prime-in-diagonal) |
@@ -163,6 +164,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2491-smallest-even-multiple) |
 | [2722-prime-in-diagonal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2722-prime-in-diagonal) |
 ## Binary Search
 |  |
