@@ -12,6 +12,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1168-duplicate-zeros](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1168-duplicate-zeros) |
+| [1396-count-servers-that-communicate](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1297-maximum-number-of-balloons) |
+| [1396-count-servers-that-communicate](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1635-number-of-good-pairs) |
@@ -156,6 +158,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1791-richest-customer-wealth](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1791-richest-customer-wealth) |
 | [2722-prime-in-diagonal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2722-prime-in-diagonal) |
 ## Heap (Priority Queue)
@@ -215,4 +218,16 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0141-linked-list-cycle) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1396-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
