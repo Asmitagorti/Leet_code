@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0324-wiggle-sort-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0324-wiggle-sort-ii) |
@@ -155,6 +156,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0324-wiggle-sort-ii) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1448-maximum-69-number) |
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0055-jump-game) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Monotonic Stack
 |  |
