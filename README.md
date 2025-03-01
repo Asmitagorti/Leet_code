@@ -37,6 +37,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2722-prime-in-diagonal) |
@@ -124,6 +125,7 @@
 | [2058-concatenation-of-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2551-apply-operations-to-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
@@ -151,6 +153,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1168-duplicate-zeros](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2551-apply-operations-to-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
