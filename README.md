@@ -74,6 +74,7 @@
 | [2556-convert-the-temperature](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2722-prime-in-diagonal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2722-prime-in-diagonal) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
