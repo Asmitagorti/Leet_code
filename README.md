@@ -310,4 +310,8 @@
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
