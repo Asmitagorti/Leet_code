@@ -8,6 +8,7 @@
 | [0055-jump-game](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0135-candy](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0204-count-primes) |
@@ -198,6 +199,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0324-wiggle-sort-ii) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1448-maximum-69-number) |
