@@ -58,6 +58,7 @@
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3430-count-days-without-meetings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -247,6 +248,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3430-count-days-without-meetings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3430-count-days-without-meetings) |
 ## Divide and Conquer
 |  |
 | ------- |
