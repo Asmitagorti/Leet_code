@@ -57,6 +57,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3227-find-missing-and-repeated-values) |
