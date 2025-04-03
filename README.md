@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0056-merge-intervals) |
@@ -190,6 +191,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0141-linked-list-cycle) |
@@ -214,6 +216,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0324-wiggle-sort-ii) |
