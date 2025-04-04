@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0204-count-primes) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -283,6 +285,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3447-clear-digits) |
