@@ -77,6 +77,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3582-find-indices-of-stable-mountains) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Math
@@ -136,6 +137,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
