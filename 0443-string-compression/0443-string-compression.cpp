@@ -14,8 +14,8 @@ public:
             chars[ind++]=ch;
             if(ct>1){
                 string num=to_string(ct);
-                for(auto hi:num){
-                    chars[ind++]=hi;
+                for(auto hi:num){ // hii
+                    chars[ind++]=hi; // count each digit as a length
                 }
             }
             i=j;
