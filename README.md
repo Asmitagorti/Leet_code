@@ -393,12 +393,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -407,4 +409,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
