@@ -311,6 +311,7 @@
 | [0020-valid-parentheses](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0739-daily-temperatures) |
@@ -354,6 +355,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -394,6 +396,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -402,6 +405,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Backtracking
