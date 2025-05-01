@@ -399,6 +399,7 @@
 | [0100-same-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -408,6 +409,7 @@
 | [0100-same-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Backtracking
@@ -421,6 +423,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
