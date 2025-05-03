@@ -163,6 +163,7 @@
 | [0443-string-compression](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0443-string-compression) |
 | [0742-to-lower-case](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0782-jewels-and-stones) |
+| [0868-push-dominoes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0868-push-dominoes) |
 | [1205-defanging-an-ip-address](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -227,6 +228,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0443-string-compression) |
+| [0868-push-dominoes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0868-push-dominoes) |
 | [1168-duplicate-zeros](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -329,6 +331,7 @@
 | [0042-trapping-rain-water](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0198-house-robber) |
+| [0868-push-dominoes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0868-push-dominoes) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2262-solving-questions-with-brainpower) |
 ## Monotonic Stack
