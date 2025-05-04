@@ -1,18 +1,19 @@
 class Solution {
 public:
     int numEquivDominoPairs(vector<vector<int>>& dominoes) {
-        int ct=0;
-        int n=dominoes.size();
-        int freq[10][10]={};
-        // i want [1,2] to be the same as [2.1]
-        // for easier comparison
-    
-        for(auto pup: dominoes){
-            int hey=pup[0], hi=pup[1];
-            int x=max(hey,hi),y=min(hey,hi);
-            ct+=freq[x][y];
-            freq[x][y]++;
+        int n = size(dominoes);
+        int res = 0;
+        map<pair<int, int>, int> hey;
+        for (int i = 0; i < n; i++) {
+            if (dominoes[i][0] < dominoes[i][1]) {
+                swap(dominoes[i][0], dominoes[i][1]);
+            }
+            hey[{dominoes[i][0], dominoes[i][1]}]++;
         }
-        return ct;
+        for (auto pup : hey) {
+            res += (pup.second * (pup.second - 1)) / 2;  
+        }
+
+        return res; 
     }
 };
