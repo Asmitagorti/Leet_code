@@ -372,6 +372,7 @@
 | [0100-same-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1005-univalued-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1005-univalued-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -379,6 +380,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
+| [1005-univalued-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1005-univalued-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
@@ -417,6 +419,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1005-univalued-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -428,6 +431,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1005-univalued-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1005-univalued-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
