@@ -366,6 +366,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0206-reverse-linked-list) |
@@ -376,6 +377,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1005-univalued-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1035-cousins-in-binary-tree) |
@@ -386,6 +388,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1005-univalued-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1396-count-servers-that-communicate) |
@@ -424,6 +427,7 @@
 | [0100-same-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -438,6 +442,7 @@
 | [0100-same-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0783-search-in-a-binary-search-tree) |
