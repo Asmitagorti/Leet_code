@@ -1,18 +1,33 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        // 0-red, 1->white,2->blue
-        // simple sort function
+        // directly operate on nums, in-place, space complexity : o(1)
+        // 2-pointers
+        // stack
         int n=nums.size();
-        int temp=0;
-        for(int i=0;i<n-1;++i){
-            for(int j=0;j<n-i-1;++j){
-                if(nums[j]>nums[j+1]){
-                    temp=nums[j];
-                    nums[j]=nums[j+1];
-                    nums[j+1]=temp;
-                }
-            }
+        stack<int>pup;
+        int i=0;
+        while(1){
+            if(i==n) break;
+            if(nums[i]==2) pup.push(nums[i]);
+            i++;
+        }
+        i=0;
+        while(1){
+            if(i==n) break;
+            if(nums[i]==1) pup.push(nums[i]);
+            i++;
+        }
+        i=0;
+        while(1){
+            if(i==n) break;
+            if(nums[i]==0) pup.push(nums[i]);
+            i++;
+        }
+        i=0;
+        while(!pup.empty()){
+            nums[i++]=pup.top();
+            pup.pop();
         }
     }
 };
