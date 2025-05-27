@@ -169,6 +169,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0038-count-and-say) |
+| [0214-shortest-palindrome](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0443-string-compression) |
 | [0742-to-lower-case](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0742-to-lower-case) |
@@ -474,4 +475,16 @@
 | [0450-delete-node-in-a-bst](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
