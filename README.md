@@ -23,6 +23,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0491-non-decreasing-subsequences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0739-daily-temperatures) |
@@ -138,6 +139,7 @@
 | [0141-linked-list-cycle](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0797-rabbits-in-forest) |
@@ -255,6 +257,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0078-subsets) |
+| [0491-non-decreasing-subsequences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -466,6 +469,7 @@
 | ------- |
 | [0077-combinations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0078-subsets) |
+| [0491-non-decreasing-subsequences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
