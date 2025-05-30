@@ -464,6 +464,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
