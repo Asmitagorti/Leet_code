@@ -14,6 +14,7 @@
 | [0078-subsets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -139,6 +140,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -423,6 +425,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Recursion
