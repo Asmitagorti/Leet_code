@@ -2,10 +2,10 @@ class Solution {
 public:
     string frequencySort(string s) {
         // most frequent first
-        map<char,int>hi;
+        unordered_map<char,int>hi;
         for(auto i: s){
             hi[i]++;
-            cout<<i<<" "<<hi[i]<<" "<<endl;
+            // cout<<i<<" "<<hi[i]<<" "<<endl;
         }
         auto kitty=[](auto &a, auto &b){
             return a.second>b.second;
