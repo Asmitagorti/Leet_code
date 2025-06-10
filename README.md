@@ -59,6 +59,7 @@
 | [2058-concatenation-of-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2058-concatenation-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -289,6 +290,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1448-maximum-69-number) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Matrix
 |  |
@@ -339,6 +341,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -532,4 +535,8 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0692-top-k-frequent-words) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
