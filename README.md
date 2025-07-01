@@ -213,6 +213,7 @@
 | [3447-clear-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3451-string-compression-iii) |
 | [3567-convert-date-to-binary](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3567-convert-date-to-binary) |
+| [3617-find-the-original-typed-string-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Simulation
 |  |
 | ------- |
