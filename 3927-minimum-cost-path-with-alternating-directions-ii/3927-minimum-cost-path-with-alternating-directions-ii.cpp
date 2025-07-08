@@ -30,7 +30,7 @@ public:
         }
         for(int j=1;j<n;++j){
             num[0][j]+=num[0][j-1]; // prefix row, horizontal
-            cout<<num[0][j]<<endl;
+            // cout<<num[0][j]<<endl;
         }
         i=1;
         while(i<m){
