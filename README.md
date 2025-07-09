@@ -110,6 +110,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0593-valid-square](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0738-monotone-increasing-digits) |
 | [0797-rabbits-in-forest](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0797-rabbits-in-forest) |
@@ -541,6 +542,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0593-valid-square) |
 | [1014-k-closest-points-to-origin](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Trie
 |  |
