@@ -6,11 +6,11 @@ public:
         // and then we can remove that element from trainers
         int ct=0,i=0;
         sort(players.begin(),players.end());
-        sort(trainers.begin(), trainers.end());
+        multiset<int>s(trainers.begin(), trainers.end());
         while(i<players.size()){
-            auto it= lower_bound(trainers.begin(),trainers.end(),players[i]);
-            if(it!=trainers.end()) {
-                trainers.erase(it);
+            auto it= s.lower_bound(players[i]);
+            if(it!=s.end()) {
+                s.erase(it);
                 ct++;
             }
             i++;
