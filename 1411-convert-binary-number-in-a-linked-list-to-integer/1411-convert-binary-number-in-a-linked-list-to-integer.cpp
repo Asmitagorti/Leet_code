@@ -16,7 +16,7 @@ public:
         ListNode* temp=head;
         while(temp!=NULL){
             s.append(to_string(temp->val));
-            cout<<s<<endl;
+            // cout<<s<<endl;
             temp=temp->next;
         }
         int len=s.length();
