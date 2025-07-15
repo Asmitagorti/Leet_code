@@ -191,6 +191,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0038-count-and-say) |
 | [0214-shortest-palindrome](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -404,6 +405,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0198-house-robber) |
@@ -526,6 +528,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0078-subsets) |
 | [0491-non-decreasing-subsequences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0491-non-decreasing-subsequences) |
