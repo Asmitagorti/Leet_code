@@ -446,6 +446,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -458,6 +459,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -499,6 +501,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -515,6 +518,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
