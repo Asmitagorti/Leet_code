@@ -41,10 +41,10 @@ public:
         int right=max(dfs(root->right),0); //0
         // cout<<"right is "<<right<<endl;
         int local=root->val + left + right; // 1
-        cout<<"local is "<<root->val<<"+"<<left<<"+"<<right<<endl;
-        cout<<"prev max is "<<m<<endl;
+        // cout<<"local is "<<root->val<<"+"<<left<<"+"<<right<<endl;
+        // cout<<"prev max is "<<m<<endl;
         m = max(m,local);
-        cout<<"final max is "<<m<<endl;
+        // cout<<"final max is "<<m<<endl;
 
         return root->val + max(left, right); // return to parent call
         
