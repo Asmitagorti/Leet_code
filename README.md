@@ -206,6 +206,7 @@
 | [1205-defanging-an-ip-address](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
