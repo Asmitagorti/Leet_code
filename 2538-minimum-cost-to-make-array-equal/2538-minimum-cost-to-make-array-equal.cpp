@@ -15,7 +15,7 @@ public:
         for(int i=0;i<n;++i){
             sum+=cost[i];
         }
-        cout<<"sum is "<<sum<<endl;
+        // cout<<"sum is "<<sum<<endl;
         long long res=0;
         map<long long, long long>freq;
         for(int i=0;i<n;++i){
