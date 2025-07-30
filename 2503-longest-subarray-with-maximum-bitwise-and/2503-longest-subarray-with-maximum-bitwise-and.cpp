@@ -30,13 +30,13 @@ public:
         for(auto i : nums){
             if(i>M) M = i;
         }
-        cout<<" max is "<<M<<endl;
+        // cout<<" max is "<<M<<endl;
         auto hi = m(nums);
         int c=0;
         for(auto i : hi){
-            cout<<i.first<<" "<<i.second<<endl;
+            // cout<<i.first<<" "<<i.second<<endl;
             if(i.first==M) {
-                cout<<" max is "<<M<<endl;
+                // cout<<" max is "<<M<<endl;
                 c=max(c,i.second);
                 // break;
             }
