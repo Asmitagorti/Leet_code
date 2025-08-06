@@ -20,6 +20,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0238-product-of-array-except-self) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -336,6 +337,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0200-number-of-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1791-richest-customer-wealth](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -479,6 +481,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1035-cousins-in-binary-tree) |
@@ -492,6 +495,7 @@
 | [0112-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0200-number-of-islands) |
 | [1005-univalued-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1396-count-servers-that-communicate) |
@@ -500,6 +504,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0200-number-of-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Recursion
