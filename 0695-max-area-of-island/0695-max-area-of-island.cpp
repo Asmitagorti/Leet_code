@@ -23,7 +23,7 @@ public:
                 if(grid[i][j]==1){
                     // ct+=1;
                     ct=dfs(grid,i,j);
-                    cout<<"ct is "<<ct<<" ";
+                    // cout<<"ct is "<<ct<<" ";
                     res = max(res,ct);
 
                 }
