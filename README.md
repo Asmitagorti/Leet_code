@@ -121,6 +121,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0593-valid-square](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0593-valid-square) |
@@ -307,6 +308,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0231-power-of-two) |
 | [0491-non-decreasing-subsequences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -516,6 +518,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
