@@ -448,6 +448,7 @@
 | [0868-push-dominoes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0868-push-dominoes) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Monotonic Stack
 |  |
