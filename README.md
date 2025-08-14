@@ -234,6 +234,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3194-find-words-containing-character](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3379-score-of-a-string) |
