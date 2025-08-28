@@ -115,6 +115,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Math
@@ -353,6 +354,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2722-prime-in-diagonal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2722-prime-in-diagonal) |
 | [3227-find-missing-and-repeated-values](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -410,6 +412,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3430-count-days-without-meetings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3430-count-days-without-meetings) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Divide and Conquer
 |  |
 | ------- |
