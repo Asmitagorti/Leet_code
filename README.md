@@ -69,6 +69,7 @@
 | [2048-build-array-from-permutation](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2058-concatenation-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2117-find-original-array-from-doubled-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -193,6 +194,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2117-find-original-array-from-doubled-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -343,6 +345,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1448-maximum-69-number) |
+| [2117-find-original-array-from-doubled-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -411,6 +414,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2117-find-original-array-from-doubled-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
