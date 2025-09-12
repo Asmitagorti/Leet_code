@@ -162,6 +162,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -252,6 +253,7 @@
 | [3396-valid-word](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3451-string-compression-iii) |
+| [3462-vowels-game-in-a-string](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Simulation
@@ -677,4 +679,9 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
