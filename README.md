@@ -103,6 +103,7 @@
 | [3194-find-words-containing-character](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -208,6 +209,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -289,6 +291,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
