@@ -143,6 +143,7 @@
 | [0738-monotone-increasing-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0738-monotone-increasing-digits) |
 | [0797-rabbits-in-forest](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0797-rabbits-in-forest) |
 | [1014-k-closest-points-to-origin](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -195,6 +196,7 @@
 | [0782-jewels-and-stones](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0940-fruit-into-baskets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
