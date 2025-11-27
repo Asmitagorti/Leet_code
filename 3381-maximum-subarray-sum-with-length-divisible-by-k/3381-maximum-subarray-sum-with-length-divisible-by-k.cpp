@@ -20,7 +20,8 @@ public:
         for(int i=k;i<arr.size();++i){
             arr[i]=max(arr[i]+arr[i-k],arr[i]);
         }
-        return *max_element(arr.begin(),arr.end());
+        for(auto i:arr) maxi=max(i,maxi);
+        return maxi;
 
     }
 };
