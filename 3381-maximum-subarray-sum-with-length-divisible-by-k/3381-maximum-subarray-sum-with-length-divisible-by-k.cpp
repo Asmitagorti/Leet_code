@@ -6,8 +6,7 @@ public:
         // to remove the exiting element, and the incoming element
         int n=nums.size();
         vector<long long>arr;
-        int i=0,ct=0;
-        long long maxi=LLONG_MIN,sum=0;
+        long long sum=0;
         for(int i=0;i<k;++i){
             sum+=nums[i];
         }
@@ -16,13 +15,12 @@ public:
             sum=sum-nums[i-k]+nums[i];
             arr.push_back(sum);
         }
-        long long high=0;
-        for(auto i:arr) cout<<i<<" ";
+        long long maxi=arr[0];
+        // for(auto i:arr) cout<<i<<" ";
         for(int i=k;i<arr.size();++i){
-            long long hi=arr[i]+arr[i-k];
-            arr[i]=max(hi,arr[i]);
+            arr[i]=max(arr[i]+arr[i-k],arr[i]);
         }
         return *max_element(arr.begin(),arr.end());
-        
+
     }
 };
