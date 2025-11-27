@@ -22,7 +22,7 @@ public:
             long long hi=arr[i]+arr[i-k];
             arr[i]=max(hi,arr[i]);
         }
-        for(auto i:arr) maxi=max(maxi,i);
-        return maxi;
+        return *max_element(arr.begin(),arr.end());
+        
     }
 };
