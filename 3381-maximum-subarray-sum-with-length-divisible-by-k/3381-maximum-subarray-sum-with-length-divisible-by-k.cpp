@@ -1,0 +1,28 @@
+class Solution {
+public:
+    long long maxSubarraySum(vector<int>& nums, int k) {
+        // brute force : o(n^2) -> create prefix array from each each eleement of size % by k
+        // our solution -> create one prefix array, and alter the values,
+        // to remove the exiting element, and the incoming element
+        int n=nums.size();
+        vector<long long>arr;
+        int i=0,ct=0;
+        long long maxi=LLONG_MIN,sum=0;
+        for(int i=0;i<k;++i){
+            sum+=nums[i];
+        }
+        arr.push_back(sum);
+        for(int i=k;i<n;++i){
+            sum=sum-nums[i-k]+nums[i];
+            arr.push_back(sum);
+        }
+        long long high=0;
+        for(auto i:arr) cout<<i<<" ";
+        for(int i=k;i<arr.size();++i){
+            long long hi=arr[i]+arr[i-k];
+            arr[i]=max(hi,arr[i]);
+        }
+        for(auto i:arr) maxi=max(maxi,i);
+        return maxi;
+    }
+};
