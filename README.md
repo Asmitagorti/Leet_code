@@ -56,6 +56,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1580-shuffle-the-array) |
@@ -373,6 +374,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1448-maximum-69-number) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -480,6 +482,7 @@
 | [0496-next-greater-element-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0739-daily-temperatures) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3447-clear-digits) |
 ## Dynamic Programming
@@ -496,6 +499,7 @@
 | [0377-combination-sum-iv](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0377-combination-sum-iv) |
 | [0868-push-dominoes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0868-push-dominoes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -506,6 +510,7 @@
 | [0042-trapping-rain-water](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0739-daily-temperatures) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Sliding Window
 |  |
 | ------- |
