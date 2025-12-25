@@ -103,6 +103,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -380,6 +381,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Matrix
 |  |
 | ------- |
@@ -455,6 +457,7 @@
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3430-count-days-without-meetings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3430-count-days-without-meetings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Divide and Conquer
