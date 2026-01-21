@@ -112,6 +112,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -360,6 +361,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2659-number-of-even-and-odd-bits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
