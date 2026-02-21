@@ -1,9 +1,6 @@
 /* Write your PL/SQL query statement below */
-select d.name Department,e.name Employee,e.salary Salary
-from employee e join Department d
-on e.departmentId=d.id
-where salary=(
-    select max(salary) 
-    from employee
-    where departmentId=e.departmentId
-);
+select d.name as Department, e.name as Employee, e.salary as Salary
+from Employee e join Department d on e.departmentId=d.id
+where e.salary = (select max(salary)
+from Employee
+where e.departmentId=departmentId);
