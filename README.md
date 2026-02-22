@@ -353,6 +353,7 @@
 | [0231-power-of-two](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0231-power-of-two) |
 | [0491-non-decreasing-subsequences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0868-binary-gap) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
