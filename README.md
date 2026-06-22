@@ -205,6 +205,7 @@
 | [0797-rabbits-in-forest](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0940-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -249,6 +250,7 @@
 | [0742-to-lower-case](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0868-push-dominoes) |
+| [1189-maximum-number-of-balloons](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1205-defanging-an-ip-address](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -298,6 +300,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0692-top-k-frequent-words) |
+| [1189-maximum-number-of-balloons](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1396-count-servers-that-communicate](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1396-count-servers-that-communicate) |
