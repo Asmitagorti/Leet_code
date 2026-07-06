@@ -50,6 +50,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1288-remove-covered-intervals) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -457,6 +458,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1288-remove-covered-intervals) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
