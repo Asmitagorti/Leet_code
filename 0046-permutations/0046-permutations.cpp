@@ -1,31 +1,26 @@
 class Solution {
 public:
-vector<vector<int>>x;
-    void call(vector<int>&y, vector<int>&nums){
-        // vector<vector<int>>x;
-        if(y.size()==nums.size()){
-            x.push_back(y);
+    void fun(vector<int>nums, vector<vector<int>>&fin, vector<bool>vis, vector<int>v){
+        if(v.size()==nums.size()){
+            fin.push_back(v);
             return;
         }
-        if(y.size()<nums.size()){
-            for(int i=0;i<nums.size();++i){
-                if(find(y.begin(), y.end() ,nums[i])==y.end()){
-                    y.push_back(nums[i]);
-                    call(y,nums);
-                    y.pop_back();
-                }
+        for(int i=0;i<nums.size();++i){
+            if(!vis[i]){
+                v.push_back(nums[i]);
+                vis[i]=true;
+                fun(nums,fin,vis,v);
+                vis[i]=false;
+                v.pop_back();
             }
         }
-
     }
     vector<vector<int>> permute(vector<int>& nums) {
-        // reursion 
-        // we need n! outputs
-        // start with empty vector
-        // appaned all the possiblel options into it
-        vector<int>y;
-        // vector<vector<int>>x;
-        call(y,nums);
-        return x;
+        vector<vector<int>>fin;
+        vector<bool>vis(nums.size(),false);
+        vector<int>v;
+        fun(nums,fin,vis,v);
+
+        return fin;
     }
 };
