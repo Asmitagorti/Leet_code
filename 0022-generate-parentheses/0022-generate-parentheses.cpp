@@ -1,15 +1,15 @@
 class Solution {
 public:
-bool hi(string s, int n){
-    int c1=0,c2=0;
-    for(auto i:s){
-        if(i=='(') c1++;
-        else c2++;
-    }
-    return (c1==n && c2==n);
-}
+// bool hi(string s, int n){
+//     int c1=0,c2=0;
+//     for(auto i:s){
+//         if(i=='(') c1++;
+//         else c2++;
+//     }
+//     return (c1==n && c2==n);
+// }
 void fun(vector<string>&fin, int n, string s,int c1,int c2){
-    if(c1==n && c2==n && hi(s,n)){
+    if(c1==n && c2==n){
         fin.push_back(s);
         return;
     }
