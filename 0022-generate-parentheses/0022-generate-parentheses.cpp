@@ -1,35 +1,35 @@
 class Solution {
 public:
-    void form(int c1, int c2, string s, int n, vector<string>&res){
-        // vector<string>res;
-        // HIIIIII
-        // c1 -> '(' , c2 -> ')'
-        // basically, i want to push the string into the vector, once the base case is satisfied
-        // else i will form the strings, using both the recursive calls
-        // cout<<c1<<" "<<c2<<endl;
-        if(c1==n && c2==n) {
-            // cout<<c1<<" "<<c2<<endl;
-            // res.insert(res.end(),s); // base case
-            // cout<<s<<endl;
-            res.push_back(s);
-            return;
-            // return res;
-        }
-        if(c1<n) {
-            form(c1+1,c2,s+'(',n,res);// recursive calls, adds '('
-            
-        }
-        if(c2<c1){ // u dont want more ) than ( !! :D
-            form(c1,c2+1,s+')',n,res);
-    
-        }
-     
+bool hi(string s, int n){
+    int c1=0,c2=0;
+    for(auto i:s){
+        if(i=='(') c1++;
+        else c2++;
     }
+    return (c1==n && c2==n);
+}
+void fun(vector<string>&fin, int n, string s,int c1,int c2){
+    if(c1==n && c2==n && hi(s,n)){
+        fin.push_back(s);
+        return;
+    }
+    if(c1<n && c1>=c2) {
+        s.push_back('(');
+        fun(fin,n,s,c1+1,c2);
+        s.pop_back();
+    }
+    if(c2<n && c1>=c2) {
+        s.push_back(')');
+        fun(fin,n,s,c1,c2+1);
+        s.pop_back();
+    }
+    
+}
     vector<string> generateParenthesis(int n) {
-        // pick and un pick
-        vector<string>res;
-        form(0,0,"",n,res);
-        return res;
+        vector<string>fin;
+        string s;
+        fun(fin,n,s,0,0);
 
+        return fin;
     }
 };
