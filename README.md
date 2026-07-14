@@ -153,6 +153,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0738-monotone-increasing-digits) |
 | [0797-rabbits-in-forest](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0797-rabbits-in-forest) |
+| [0970-powerful-integers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0970-powerful-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -209,6 +210,7 @@
 | [0782-jewels-and-stones](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0940-fruit-into-baskets) |
+| [0970-powerful-integers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0970-powerful-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -611,6 +613,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0204-count-primes) |
+| [0970-powerful-integers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0970-powerful-integers) |
 | [1291-sequential-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1291-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
