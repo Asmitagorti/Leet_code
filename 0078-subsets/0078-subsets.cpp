@@ -1,25 +1,26 @@
 class Solution {
 public:
-    vector<vector<int>> ans; 
-    void check(int cur, int len, vector<int> hi, vector<int>& arr, int i) {
-        if (cur == len) {
-            ans.push_back(hi);
+    void fun(vector<vector<int>>&res, vector<int>v, vector<int>nums, int i){
+        if(i>=nums.size()){
             return;
         }
-        if (i >= len) return;
-        vector<int>pup = hi;
-        pup.push_back(arr[i]);
-        check(cur + 1, len, pup, arr, i + 1);
-        check(cur + 1, len, hi, arr, i + 1);
+        //res.push_back(v);
+        v.push_back(nums[i]);
+        fun(res,v,nums,i+1);
+        res.push_back(v);
+        v.pop_back();
+        fun(res,v,nums,i+1);
+        res.push_back(v);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        int n = nums.size();
-        // int left=0,right=0;
-        // // vector<int>arr;
-        // while(right<n){
-            
-        // }
-        check(0, n, {}, nums, 0);
-        return ans;
+        vector<vector<int>>res,hi;
+        vector<int>v;
+        fun(res,v,nums,0);
+
+        set<vector<int>>seen;
+        for(auto i:res){
+            if(seen.insert(i).second) hi.push_back(i);
+        }
+        return hi;
     }
 };
