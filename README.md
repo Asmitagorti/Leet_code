@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0046-permutations) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0141-linked-list-cycle) |
@@ -405,6 +407,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0498-diagonal-traverse) |
