@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0066-plus-one) |
@@ -680,6 +681,7 @@
 | [0039-combination-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0078-subsets) |
 | [0491-non-decreasing-subsequences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0491-non-decreasing-subsequences) |
