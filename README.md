@@ -141,6 +141,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Math
 |  |
@@ -195,6 +196,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3830-find-closest-person) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -308,6 +310,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -366,6 +369,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -441,6 +445,7 @@
 | [2491-smallest-even-multiple](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2722-prime-in-diagonal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2722-prime-in-diagonal) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -490,6 +495,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3430-count-days-without-meetings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3430-count-days-without-meetings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
