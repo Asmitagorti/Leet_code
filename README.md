@@ -193,6 +193,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3536-maximum-product-of-two-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -501,6 +502,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3430-count-days-without-meetings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3430-count-days-without-meetings) |
+| [3536-maximum-product-of-two-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
