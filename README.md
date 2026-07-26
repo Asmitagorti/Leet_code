@@ -45,6 +45,7 @@
 | [0692-top-k-frequent-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0752-open-the-lock) |
 | [0797-rabbits-in-forest](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0907-koko-eating-bananas) |
@@ -218,6 +219,7 @@
 | [0496-next-greater-element-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0752-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0940-fruit-into-baskets) |
@@ -268,6 +270,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0742-to-lower-case) |
+| [0752-open-the-lock](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0752-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0782-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0784-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0868-push-dominoes) |
@@ -617,6 +620,7 @@
 | [0200-number-of-islands](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0695-max-area-of-island) |
+| [0752-open-the-lock](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0752-open-the-lock) |
 | [1005-univalued-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1005-univalued-binary-tree) |
 | [1034-coloring-a-border](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1034-coloring-a-border) |
 | [1035-cousins-in-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1035-cousins-in-binary-tree) |
