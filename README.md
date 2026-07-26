@@ -33,6 +33,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0377-combination-sum-iv](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0377-combination-sum-iv) |
+| [0419-battleships-in-a-board](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0419-battleships-in-a-board) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -426,6 +427,7 @@
 | [0037-sudoku-solver](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0695-max-area-of-island) |
@@ -602,6 +604,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0695-max-area-of-island) |
 | [1005-univalued-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1005-univalued-binary-tree) |
