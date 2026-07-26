@@ -51,6 +51,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0940-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1034-coloring-a-border](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1034-coloring-a-border) |
@@ -431,6 +432,7 @@
 | [0498-diagonal-traverse](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1034-coloring-a-border) |
 | [1162-as-far-from-land-as-possible](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1253-sort-the-matrix-diagonally) |
@@ -624,6 +626,7 @@
 | [0542-01-matrix](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0752-open-the-lock) |
+| [0994-rotting-oranges](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1005-univalued-binary-tree) |
 | [1034-coloring-a-border](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1034-coloring-a-border) |
 | [1035-cousins-in-binary-tree](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1035-cousins-in-binary-tree) |
