@@ -1,20 +1,27 @@
 class Solution {
 public:
-    int maxArea(vector<int>& height) {
-        // All pairs of the n lines define a rectangle with a height given by the shorter line and a width given by the distance between the lines. Return the area of the rectangle with the largest area
-        int i=0, j=height.size()-1;
-        int max_area=0;
-        while(i<j){
-            int h=min(height[i],height[j]);
-            int area=h*(j-i);
-            if(max_area<area){
-                max_area=area;
+    int maxArea(vector<int>& h) {
+        int n=h.size();
+        int l=0,r=n-1;
+        int maxi=0,mini=INT_MAX;
+        while(l<r){
+            if(h[l]<=h[r]){
+                int dist=r-l;
+                maxi=max(maxi,h[l]*dist);
+                l++;
             }
-            if(height[i]<height[j]){
-                i++;
+            if(h[l]>h[r]){
+                int dist1=r-l;
+                maxi=max(maxi,h[r]*dist1);
+                r--;
             }
-            else j--;
+            // else{
+            //     int dist1=r-l;
+            //     maxi=max(maxi,h[l]*dist1);
+            //     r--;
+            //     l++;
+            // }
         }
-        return max_area;
+        return maxi;
     }
 };
