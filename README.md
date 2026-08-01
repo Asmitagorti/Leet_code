@@ -102,6 +102,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -244,6 +245,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -581,6 +583,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
