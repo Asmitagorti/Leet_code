@@ -43,6 +43,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0724-find-pivot-index) |
@@ -580,6 +581,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0594-longest-harmonious-subsequence](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
