@@ -181,6 +181,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2491-smallest-even-multiple) |
@@ -299,6 +300,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3194-find-words-containing-character](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/3194-find-words-containing-character) |
@@ -587,6 +589,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
