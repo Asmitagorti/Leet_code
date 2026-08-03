@@ -78,6 +78,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1656-count-good-triplets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1791-richest-customer-wealth) |
@@ -240,6 +241,7 @@
 | [1500-count-largest-group](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1635-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -356,6 +358,7 @@
 | [0724-find-pivot-index](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2529-range-product-queries-of-powers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -481,6 +484,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -589,6 +593,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
