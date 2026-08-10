@@ -25,6 +25,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0200-number-of-islands) |
@@ -480,6 +481,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0540-single-element-in-a-sorted-array) |
