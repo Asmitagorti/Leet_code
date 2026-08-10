@@ -58,6 +58,7 @@
 | [0940-fruit-into-baskets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0940-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-k-closest-points-to-origin](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1034-coloring-a-border](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1034-coloring-a-border) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -491,6 +492,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
