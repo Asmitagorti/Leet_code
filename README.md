@@ -51,6 +51,7 @@
 | [0739-daily-temperatures](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0752-open-the-lock) |
 | [0797-rabbits-in-forest](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0797-rabbits-in-forest) |
+| [0875-koko-eating-bananas](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0907-koko-eating-bananas) |
@@ -486,6 +487,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0875-koko-eating-bananas](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1004-max-consecutive-ones-iii) |
