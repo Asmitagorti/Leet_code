@@ -9,7 +9,7 @@ public:
             }
             else if(nums[mid]>=target) h=mid-1;
         }
-        cout<<"l is "<<l<<"m is "<<mid<<"h is "<<l<<endl;
+        // cout<<"l is "<<l<<"m is "<<mid<<"h is "<<l<<endl;
         return (nums.size()>=1 && l<nums.size() && nums[l]==target)?l:-1;
     }
     int bin_search2(vector<int>&nums, int l, int h, int &target){
@@ -21,7 +21,7 @@ public:
             }
             else if(nums[mid]>target) h=mid-1;
         }
-        cout<<"l is "<<l<<"m is "<<mid<<"h is "<<h<<endl;
+        // cout<<"l is "<<l<<"m is "<<mid<<"h is "<<h<<endl;
         // cout<<nums[mid]<<target<<endl;
         return (nums.size()>=1 && h<nums.size() && nums[h]==target)?h:-1;
     }
