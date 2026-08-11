@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0039-combination-sum) |
@@ -484,6 +485,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
