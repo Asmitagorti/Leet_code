@@ -853,4 +853,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0455-assign-cookies) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
