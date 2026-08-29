@@ -857,4 +857,12 @@
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0752-open-the-lock) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
