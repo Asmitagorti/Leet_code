@@ -40,6 +40,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0377-combination-sum-iv](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0377-combination-sum-iv) |
 | [0419-battleships-in-a-board](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0419-battleships-in-a-board) |
+| [0435-non-overlapping-intervals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0455-assign-cookies) |
@@ -440,6 +441,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0455-assign-cookies) |
 | [0738-monotone-increasing-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0738-monotone-increasing-digits) |
 | [0797-rabbits-in-forest](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0797-rabbits-in-forest) |
@@ -527,6 +529,7 @@
 | [0056-merge-intervals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -597,6 +600,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0377-combination-sum-iv) |
+| [0435-non-overlapping-intervals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0542-01-matrix) |
 | [0868-push-dominoes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0868-push-dominoes) |
 | [1162-as-far-from-land-as-possible](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1162-as-far-from-land-as-possible) |
