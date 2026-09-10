@@ -93,6 +93,7 @@
 | [1635-number-of-good-pairs](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1656-count-good-triplets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1710-maximum-units-on-a-truck](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1791-richest-customer-wealth) |
@@ -452,6 +453,7 @@
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1448-maximum-69-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -544,6 +546,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
