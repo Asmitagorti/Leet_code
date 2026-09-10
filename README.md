@@ -66,6 +66,7 @@
 | [0904-fruit-into-baskets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0940-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -410,6 +411,7 @@
 | [0455-assign-cookies](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0868-push-dominoes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0868-push-dominoes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -544,6 +546,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0692-top-k-frequent-words) |
+| [0977-squares-of-a-sorted-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
