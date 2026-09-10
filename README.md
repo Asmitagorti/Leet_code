@@ -42,6 +42,7 @@
 | [0377-combination-sum-iv](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0377-combination-sum-iv) |
 | [0419-battleships-in-a-board](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0455-assign-cookies) |
@@ -237,6 +238,7 @@
 | [0141-linked-list-cycle](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0491-non-decreasing-subsequences) |
@@ -536,6 +538,7 @@
 | [0075-sort-colors](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
