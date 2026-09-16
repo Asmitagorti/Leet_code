@@ -247,6 +247,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0692-top-k-frequent-words) |
 | [0752-open-the-lock](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0752-open-the-lock) |
+| [0763-partition-labels](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0797-rabbits-in-forest) |
 | [0904-fruit-into-baskets](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0904-fruit-into-baskets) |
@@ -303,6 +304,7 @@
 | [0692-top-k-frequent-words](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0742-to-lower-case) |
 | [0752-open-the-lock](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0752-open-the-lock) |
+| [0763-partition-labels](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0782-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0784-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0868-push-dominoes) |
@@ -410,6 +412,7 @@
 | [0443-string-compression](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0763-partition-labels](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0763-partition-labels) |
 | [0868-push-dominoes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0868-push-dominoes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1168-duplicate-zeros) |
@@ -453,6 +456,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0455-assign-cookies) |
 | [0738-monotone-increasing-digits](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0738-monotone-increasing-digits) |
+| [0763-partition-labels](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0763-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
