@@ -174,6 +174,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -665,6 +666,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -725,6 +727,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0231-power-of-two) |
