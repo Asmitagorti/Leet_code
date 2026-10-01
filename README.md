@@ -295,6 +295,7 @@
 | [0022-generate-parentheses](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0038-count-and-say) |
 | [0093-restore-ip-addresses](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0093-restore-ip-addresses) |
+| [0125-valid-palindrome](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0214-shortest-palindrome) |
@@ -404,6 +405,7 @@
 | [0042-trapping-rain-water](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Asmitagorti/Leet-code-solutions/tree/master/0160-intersection-of-two-linked-lists) |
